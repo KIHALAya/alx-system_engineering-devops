@@ -10,6 +10,8 @@ else
 
   if match_data = input.match(pattern)
     puts match_data[0]
+  else
+    puts
   end
 end
 
