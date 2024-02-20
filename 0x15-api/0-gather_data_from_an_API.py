@@ -3,8 +3,8 @@
 for a given employee ID."""
 
 if __name__ == "__main__":
-    import sys
     import requests
+    import sys
 
     employee_id = sys.argv[1]
     td_url = f"https://jsonplaceholder.typicode.com/todos?userId={employee_id}"
