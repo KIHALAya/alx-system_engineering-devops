@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-""" 1-export_to_JSON.py - export data in the JSON format."""
+""" 2-export_to_JSON.py - export data in the JSON format."""
 
 if __name__ == "__main__":
     import json
